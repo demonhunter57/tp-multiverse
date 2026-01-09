@@ -1,0 +1,10 @@
+# SÉQUENCE DE DÉVERROUILLAGE DIMENSIONNEL
+
+Dr. Strange a fragmenté la coordonnée finale en trois parties.
+Chaque partie est stockée dans un fichier différent.
+
+Partie 1 : sequence_part1.txt
+Partie 2 : sequence_part2.txt
+Partie 3 : sequence_part3.txt
+
+Formule d'assemblage : [Part1] × [Part2] - [Part3]
